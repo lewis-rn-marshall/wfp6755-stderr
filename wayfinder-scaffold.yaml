@@ -1,0 +1,9 @@
+apiVersion: sourcecontrol/v3
+createdFrom:
+  apiGroup: sourcecontrol
+  commit: d6c6f5173d01399060159c9ca6dbd203bba4c752
+  inputs:
+    serviceName: stderr-check
+  kind: RepoTemplate
+  name: wfp6755-test
+kind: WayfinderScaffoldRecord
